@@ -1,0 +1,3 @@
+D:/Desktop/all/code/cpp/session2/session2_9/cmake-build-debug/CMakeFiles/session2_9.dir
+D:/Desktop/all/code/cpp/session2/session2_9/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop/all/code/cpp/session2/session2_9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
