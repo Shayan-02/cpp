@@ -18,7 +18,7 @@ int main() {
             break;
         case 2:
         case 3:
-        case 12:
+        case 4:
             gameStatus = LOST;
             break;
 
@@ -33,7 +33,7 @@ int main() {
         sum = rollDice();
 
         if (sum == myPoint) gameStatus = CONTINUE;
-        else if (sum == 2 || sum == 3 || sum == 12) gameStatus = LOST;
+        else if (sum == 2 || sum == 3 || sum == 4) gameStatus = LOST;
         else
             if (sum == 7 || sum == 11) gameStatus = WON;
     }
